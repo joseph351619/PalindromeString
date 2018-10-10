@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\bin\Debug\PalindromeString.exe.config
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\bin\Debug\PalindromeString.exe
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\bin\Debug\PalindromeString.pdb
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\obj\Debug\PalindromeString.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\obj\Debug\PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\obj\Debug\PalindromeString.exe
+C:\Users\Joseph\source\repos\PalindromeString\PalindromeString\obj\Debug\PalindromeString.pdb
